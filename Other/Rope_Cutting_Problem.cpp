@@ -17,7 +17,7 @@ void RopeCut(int n, int a, int b, int c)
 int main()
 {
     int n,a,b,c;
-    cout<<"Give Total length: "<<endl;
+    cout<<"Give  The Total length: "<<endl;
     cin>>n;
 
     cout<<"Give a length: "<<endl;
